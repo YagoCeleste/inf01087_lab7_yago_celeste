@@ -1,4 +1,4 @@
-# Titulo da Branch
+# Laboratorio Resolvido
 Nome: Yago Celeste
 Curso: Ciencia da Computacao
 Disciplina: INF01087
