@@ -1,4 +1,4 @@
-# Titulo da Main
+# Laboratorio Resolvido
 Nome: Yago Celeste
 Curso: Ciencia da Computacao
 Disciplina: INF01087
